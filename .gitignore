@@ -1,0 +1,4 @@
+# Project exclude paths
+/ob_spring_helloworld/target/
+/spring/sesiones_1_2_3/ob-spring-helloworld/target/
+/spring/sesiones_1_2_3/ob-spring-scan/target/
