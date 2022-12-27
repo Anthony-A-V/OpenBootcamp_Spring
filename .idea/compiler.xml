@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ob-spring-security-oauth-github" />
+        <module name="ob-spring-security-jwt-roles" />
+        <module name="spring-patterns (1)" />
+        <module name="ob-spring-scan" />
+        <module name="ob-spring-security" />
+        <module name="ob-spring-security-oauth-github (1)" />
+        <module name="ob-spring-security-jwt-roles (1)" />
+        <module name="barbershop (1)" />
+        <module name="barbershop (3)" />
+        <module name="ob-sprindatajpa" />
+        <module name="barbershop (2)" />
+        <module name="ob-spring-security-csrf" />
+        <module name="spring-patterns" />
+        <module name="ob-rest-datajpa" />
+        <module name="springboot-postgresql" />
+        <module name="barbershop (5)" />
+        <module name="barbershop (4)" />
+        <module name="springboot-mysql" />
+        <module name="ob-spring-helloworld" />
+        <module name="ob-spring-security-jwt" />
+        <module name="barbershop" />
+        <module name="ob_spring_helloworld" />
+        <module name="ob-spring-security-cifrado" />
+        <module name="ob-rest-datajpa (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="barbershop" target="17" />
+      <module name="barbershop (1)" target="17" />
+      <module name="barbershop (2)" target="17" />
+      <module name="barbershop (3)" target="17" />
+      <module name="barbershop (4)" target="17" />
+      <module name="barbershop (5)" target="17" />
+      <module name="ob-rest-datajpa" target="17" />
+      <module name="ob-rest-datajpa (1)" target="17" />
+      <module name="ob-sprindatajpa" target="17" />
+      <module name="ob-spring-helloworld" target="17" />
+      <module name="ob-spring-scan" target="17" />
+      <module name="ob-spring-security" target="17" />
+      <module name="ob-spring-security-cifrado" target="17" />
+      <module name="ob-spring-security-csrf" target="17" />
+      <module name="ob-spring-security-jwt" target="17" />
+      <module name="ob-spring-security-jwt-roles" target="17" />
+      <module name="ob-spring-security-jwt-roles (1)" target="17" />
+      <module name="ob-spring-security-oauth-github" target="17" />
+      <module name="ob-spring-security-oauth-github (1)" target="17" />
+      <module name="ob_spring_helloworld" target="19" />
+      <module name="spring-patterns" target="17" />
+      <module name="spring-patterns (1)" target="17" />
+      <module name="springboot-mysql" target="17" />
+      <module name="springboot-postgresql" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="barbershop" options="-parameters" />
+      <module name="barbershop (1)" options="-parameters" />
+      <module name="barbershop (2)" options="-parameters" />
+      <module name="barbershop (3)" options="-parameters" />
+      <module name="barbershop (4)" options="-parameters" />
+      <module name="barbershop (5)" options="-parameters" />
+      <module name="ob-rest-datajpa" options="-parameters" />
+      <module name="ob-rest-datajpa (1)" options="-parameters" />
+      <module name="ob-sprindatajpa" options="-parameters" />
+      <module name="ob-spring-security" options="-parameters" />
+      <module name="ob-spring-security-cifrado" options="-parameters" />
+      <module name="ob-spring-security-csrf" options="-parameters" />
+      <module name="ob-spring-security-jwt" options="-parameters" />
+      <module name="ob-spring-security-jwt-roles" options="-parameters" />
+      <module name="ob-spring-security-jwt-roles (1)" options="-parameters" />
+      <module name="ob-spring-security-oauth-github" options="-parameters" />
+      <module name="ob-spring-security-oauth-github (1)" options="-parameters" />
+      <module name="spring-patterns" options="-parameters" />
+      <module name="spring-patterns (1)" options="-parameters" />
+      <module name="springboot-mysql" options="-parameters" />
+      <module name="springboot-postgresql" options="-parameters" />
+    </option>
+  </component>
+</project>

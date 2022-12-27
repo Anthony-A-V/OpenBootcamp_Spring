@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ob_spring_helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ob_spring_helloworld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/seriones_10_11_12/ob-spring-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/seriones_10_11_12/ob-spring-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_13_14_15_16/ob-spring-security-cifrado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_13_14_15_16/ob-spring-security-cifrado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_13_14_15_16/ob-spring-security-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_13_14_15_16/ob-spring-security-jwt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-jwt-roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-jwt-roles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-oauth-github/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-oauth-github/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-oauth-okta/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-oauth-okta/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_1_2_3/ob-sprindatajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_1_2_3/ob-sprindatajpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_20_21_22_23/ob-spring-security-csrf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_20_21_22_23/ob-spring-security-csrf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_20_21_22_23/spring-patterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_20_21_22_23/spring-patterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_24_25_26_27_28/spring-patterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_24_25_26_27_28/spring-patterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_29_30_31/ob-spring-security-jwt-roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_29_30_31/ob-spring-security-jwt-roles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_4_5_6/ob-rest-datajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_4_5_6/ob-rest-datajpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_7_8_9/ob-rest-datajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/sesiones_7_8_9/ob-rest-datajpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_03_01_2022/barbershop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_03_01_2022/barbershop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_04_01_2022/barbershop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_04_01_2022/barbershop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_05_01_2022/barbershop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_05_01_2022/barbershop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_11_01_2022/barbershop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_11_01_2022/barbershop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_12_01_2022/barbershop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_12_01_2022/barbershop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_13_01_2021/barbershop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_13_01_2021/barbershop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_15_11_2021/springboot-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_15_11_2021/springboot-mysql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_15_11_2021/springboot-postgresql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/tutoria_15_11_2021/springboot-postgresql/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

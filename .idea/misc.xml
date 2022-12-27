@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring/sesiones_1_2_3/ob-spring-scan/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_1_2_3/ob-sprindatajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_1_2_3/ob-spring-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_4_5_6/ob-rest-datajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_7_8_9/ob-rest-datajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/seriones_10_11_12/ob-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-jwt-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-oauth-okta/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_17_18_19/ob-spring-security-oauth-github/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_29_30_31/ob-spring-security-jwt-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_03_01_2022/barbershop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_04_01_2022/barbershop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_05_01_2022/barbershop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_11_01_2022/barbershop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_12_01_2022/barbershop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_13_01_2021/barbershop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_15_11_2021/springboot-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/tutoria_15_11_2021/springboot-postgresql/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_13_14_15_16/ob-spring-security-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_13_14_15_16/ob-spring-security-cifrado/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_20_21_22_23/spring-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_20_21_22_23/ob-spring-security-csrf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/sesiones_24_25_26_27_28/spring-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/ob_spring_helloworld/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
