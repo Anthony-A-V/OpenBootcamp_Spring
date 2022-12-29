@@ -27,7 +27,6 @@
         <module name="ob-spring-helloworld" />
         <module name="ob-spring-security-jwt" />
         <module name="barbershop" />
-        <module name="ob_spring_helloworld" />
         <module name="ob-spring-security-cifrado" />
         <module name="ob-rest-datajpa (1)" />
       </profile>
